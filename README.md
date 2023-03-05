@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋 </h1>
 <h3 align="center">I'm studying at VSCPI.</h3>
- <dt>center</dt>
+
 - 🌱 I’m currently learning **C++, C#, JavaScript, HTML5 and CSS3** <br>
 - 👨‍💻 Most of my projects are available at [Github](Github) <br>
 - 📫 How to reach me **MVKoleva21@codingburgas.bg** <br>
