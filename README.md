@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋 </h1>
 <h3 align="center">I'm studying at VSCPI.</h3>
 
-- 🌱 I’m currently learning **C++, JavaScript, HTML5 and CSS3** 
+- 🌱 I’m currently learning **C++, **C#, JavaScript, HTML5 and CSS3** 
 
 - 👨‍💻 Most of my projects are available at [Github](Github)
 
