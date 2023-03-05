@@ -2,9 +2,11 @@
 <h3 align="center">I'm studying at VSCPI.</h3>
 <p align="center">
 - 🌱 I’m currently learning **C++, C#, JavaScript, HTML5 and CSS3** 
-
+</p>
+<p align="center">
 - 👨‍💻 Most of my projects are available at [Github](Github)
-
+</p>
+<p align="center">
 - 📫 How to reach me **MVKoleva21@codingburgas.bg**
           </p>
 <h3 align="center">Languages and Tools:</h3>
