@@ -1,5 +1,5 @@
 <div align = "center" > 
-  <p>Counter for you stalker bitches: </p> 
+  <h1 ><b>Counter for you stalker bitches: </b></h1> 
   <br> <br> 
   
   <img src="https://profile-counter.glitch.me/MVKoleva21/count.svg"></img>
